@@ -1,6 +1,6 @@
-# CSS Crash Course Notes
+# Asynchronous JavaScript Crash Course Notes
 
-The contents of this course are derived from the CSS Crash Course located on The Codevolution YouTube Page: [CSS Crash Course](https://www.youtube.com/watch?v=Icf5D3fEKbM&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=2)
+The contents of this course are derived from the Asynchronous Javascript Crash Course located on The Codevolution YouTube Page: [Asynchronous JavaScript Crash Course](https://www.youtube.com/watch?v=exBgWAIeIeg&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=7)
 
 ## Timestamps
 
