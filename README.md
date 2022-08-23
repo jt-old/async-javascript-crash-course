@@ -1,14 +1,33 @@
-# A Simple JavaScript, HTML, and CSS Template
+# CSS Crash Course Notes
 
-Has Graph Graph Protocol meta in the head and basic webpage layout setup.
+The contents of this course are derived from the CSS Crash Course located on The Codevolution YouTube Page: [CSS Crash Course](https://www.youtube.com/watch?v=Icf5D3fEKbM&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=2)
 
-- Click 'Use Template' to clone
-- Name your project
-- Click on the 'Code' dropdown.
-- Clone to your desktop in your preferred method. I use Github Desktop App, So I click "Open with GitHub Desktop"
-- It will clone to desktop.
-- Then, I click "Open with Visual Studio Code"
-- And you're off to the races.
-- As you create your project and want to commit to github, just 'git add .' git commit -m "insert message" and 'git push'.
-- Pretty simple and easy to get going.
-- Enjoy :)
+## Timestamps
+
+Timestamps
+
+00:00 Intro\
+01:22 What, Why and How?\
+07:10 Timeouts and Intervals\
+14:48 Callbacks\
+22:19 Promise\
+44:44 async & await\
+55:24 Event Loop\
+01:27:42 Wrapping Up\
+
+I found a lot of value in the crash courses when I was first beginning to code and took extensive notes as I followed along. So, in coder fashion, I made websites out of the content and depoyed them through [Netlify](https://app.netlify.com/)
+
+I highly recommend checking out all of the Codevolution videos. Links to all of the crash courses are below. In addition, he has extensive videos on React.js, Next.js, Node.js, MongoDB, and more.
+
+### [The Codevolution Channel](https://www.youtube.com/c/Codevolution)
+
+### Crash Course Videos
+
+- [HTML Crash Course](https://www.youtube.com/watch?v=N8YMl4Ezp4g&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=1)
+- [CSS Crash Course](https://www.youtube.com/watch?v=Icf5D3fEKbM&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=2)
+- [CSS Flexbox Crash Course](https://www.youtube.com/watch?v=z62f2k38s64&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=3)
+- [CSS Grid Crash Course](https://www.youtube.com/watch?v=p4Ith5qRM1g&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=4)
+- [JavaScript Crash Course](https://www.youtube.com/watch?v=XIOLqoPHCJ4&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=5)
+- [Advanced JavaScript Crash Course](https://www.youtube.com/watch?v=R9I85RhI7Cg&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=6)
+- [Asynchronous JavaScript Crash Course](https://www.youtube.com/watch?v=exBgWAIeIeg&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=7)
+- [React Fundmanentals Crash Course](https://www.youtube.com/watch?v=jLS0TkAHvRg&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7&index=8)
